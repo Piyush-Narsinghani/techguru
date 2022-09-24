@@ -17,10 +17,19 @@ function CF2Card() {
               <ImPointRight /> CEO- MAYA GARDEN GROUP PVT. LTD.
             </li>
             <li className="about-activity">
-              <ImPointRight /> CFO- Trident industries pvt. ltd.
+              <ImPointRight /> CFO- Trident Industries PVT. LTD.
             </li>
             <li className="about-activity">
-              <ImPointRight /> Director- MRM group of Computers pvt. ltd.
+              <ImPointRight /> Director- MRM Group of Companies PVT. LTD.
+            </li>
+            <li className="about-activity">
+              <ImPointRight />President- Vishesh Computer Education Society.
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Trustee- Goonj NGO
+            </li>
+            <li className="about-activity">
+              <ImPointRight /> Trustee- Helpage India NGO
             </li>
           </ul>
           <footer className="blockquote-footer">Co-Founder| GAURAV JINDAL</footer>
