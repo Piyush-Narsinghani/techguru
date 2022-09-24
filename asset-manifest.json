@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/techguru/static/css/main.b2941e2b.css",
+    "main.js": "/techguru/static/js/main.2eafe983.js",
+    "static/js/415.4c9b56bc.chunk.js": "/techguru/static/js/415.4c9b56bc.chunk.js",
+    "static/js/787.4be0bdc6.chunk.js": "/techguru/static/js/787.4be0bdc6.chunk.js",
+    "static/media/home-main.svg": "/techguru/static/media/home-main.359935c39288e92d4dba5c9f2445b91d.svg",
+    "static/media/home-bg.jpg": "/techguru/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/techguru/static/media/logo.7cc46ad8dd30cfac1778.png",
+    "static/media/avatar.svg": "/techguru/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/techguru/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/techguru/index.html",
+    "main.b2941e2b.css.map": "/techguru/static/css/main.b2941e2b.css.map",
+    "main.2eafe983.js.map": "/techguru/static/js/main.2eafe983.js.map",
+    "415.4c9b56bc.chunk.js.map": "/techguru/static/js/415.4c9b56bc.chunk.js.map",
+    "787.4be0bdc6.chunk.js.map": "/techguru/static/js/787.4be0bdc6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b2941e2b.css",
+    "static/js/main.2eafe983.js"
+  ]
+}
